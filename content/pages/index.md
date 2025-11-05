@@ -13,7 +13,7 @@ sections:
     actions:
       - label: WHATSAPP
         altText: 'https://chat.whatsapp.com/KO3PF4YL5uc1mrw6aNRXB2?mode=ems_copy_c'
-        url: /
+        url: '/https://chat.whatsapp.com/KO3PF4YL5uc1mrw6aNRXB2?mode=ems_copy_c'
         showIcon: false
         icon: arrowRight
         iconPosition: right
