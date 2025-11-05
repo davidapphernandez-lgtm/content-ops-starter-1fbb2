@@ -11,7 +11,7 @@ sections:
     text: |
       UNETE A NUESTRO GRUPO DANDOLE CLIP EN WHATSAPP
     actions:
-      - label: Get started
+      - label: WHATSAPP
         altText: ''
         url: /
         showIcon: false
