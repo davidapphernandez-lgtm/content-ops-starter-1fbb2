@@ -20,15 +20,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ENTRAR
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/polla popeye.jpg
       altText: Unblock your team boost your time to production preview
