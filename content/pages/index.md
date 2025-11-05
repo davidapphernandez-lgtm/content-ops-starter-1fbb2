@@ -7,7 +7,7 @@ sections:
       text: POLLA POPEYE
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: |
       UNETE A NUESTRO GRUPO DANDOLE CLIP EN WHATSAPP
     actions:
