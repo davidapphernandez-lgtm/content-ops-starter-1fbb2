@@ -21,7 +21,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Tutorials
-        altText: ''
+        altText: ENTRAR
         url: /
         showIcon: true
         icon: arrowRight
