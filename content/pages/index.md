@@ -7,6 +7,9 @@ sections:
       text: POLLA POPEYE
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: |
       UNETE A NUESTRO GRUPO CLIP EN WHATSAPP
