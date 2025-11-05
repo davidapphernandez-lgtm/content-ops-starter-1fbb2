@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      UNETE A NUESTRO GRUPO DANDOLE CLIP EN WHATSAPP
+      UNETE A NUESTRO GRUPO CLIP EN WHATSAPP
     actions:
       - label: WHATSAPP
         altText: ''
