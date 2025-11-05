@@ -12,7 +12,7 @@ sections:
       UNETE A NUESTRO GRUPO CLIP EN WHATSAPP
     actions:
       - label: WHATSAPP
-        altText: ''
+        altText: 'https://chat.whatsapp.com/KO3PF4YL5uc1mrw6aNRXB2?mode=ems_copy_c'
         url: /
         showIcon: false
         icon: arrowRight
