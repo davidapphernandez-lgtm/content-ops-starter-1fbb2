@@ -22,7 +22,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ENTRAR
-        url: '/https://chat.whatsapp.com/KO3PF4YL5uc1mrw6aNRXB2?mode=ems_copy_c'
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
